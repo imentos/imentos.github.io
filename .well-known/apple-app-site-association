@@ -1,8 +1,14 @@
 {
   "appclips": {
-    "apps": ["2HQJC64KR8.rkuo.FocusMaestro.Clip"]
+    "apps": [
+      "2HQJC64KR8.rkuo.FocusMaestro.Clip",
+      "2HQJC64KR8.rkuo.ShowUpBooster.Clip"
+    ]
   },
   "webcredentials": {
-    "apps": ["2HQJC64KR8.rkuo.FocusMaestro"]
+    "apps": [
+      "2HQJC64KR8.rkuo.FocusMaestro",
+      "2HQJC64KR8.rkuo.ShowUpBooster"
+    ]
   }
 }
