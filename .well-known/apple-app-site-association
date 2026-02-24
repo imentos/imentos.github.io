@@ -3,6 +3,24 @@
     "apps": [
       "2HQJC64KR8.rkuo.FocusMaestro.Clip",
       "2HQJC64KR8.rkuo.ShowUpBooster.Clip"
+    ],
+    "details": [
+      {
+        "appID": "2HQJC64KR8.rkuo.FocusMaestro.Clip",
+        "components": [
+          {
+            "/": "/"
+          }
+        ]
+      },
+      {
+        "appID": "2HQJC64KR8.rkuo.ShowUpBooster.Clip",
+        "components": [
+          {
+            "/": "/ShowUpBooster/*"
+          }
+        ]
+      }
     ]
   },
   "webcredentials": {
