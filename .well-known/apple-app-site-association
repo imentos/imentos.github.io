@@ -1,4 +1,17 @@
 {
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "2HQJC64KR8.rkuo.FocusMaestro",
+        "paths": ["*"]
+      },
+      {
+        "appID": "2HQJC64KR8.rkuo.ShowUpBooster",
+        "paths": ["/ShowUpBooster/*", "/ShowUpBooster"]
+      }
+    ]
+  },
   "appclips": {
     "apps": [
       "2HQJC64KR8.rkuo.FocusMaestro.Clip",
